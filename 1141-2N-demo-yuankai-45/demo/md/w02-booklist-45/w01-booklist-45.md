@@ -13,7 +13,7 @@
 ![](w02-p1-3.png)
  
 ```
-ee762c0 htchung Wed Sep 24 20:05:59 2025 +0800  W02-P1: App_xx with 6 books
+e5a6c060 seallco Sun Sep 28 18:32:04 2025 +0800  W02-P1: App_45 with 6 books
 ```
 
 ### W02-P2: refine code in W01-P1
