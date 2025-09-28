@@ -20,6 +20,7 @@ e5a6c060 seallco Sun Sep 28 18:32:04 2025 +0800  W02-P1: App_45 with 6 books
  
 #### => Chrome demo use React DevTools
  
+![](w02-p1.png)
 ![](w02-p2.png)
  
 ```
