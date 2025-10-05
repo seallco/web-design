@@ -24,5 +24,5 @@ e5a6c060 seallco Sun Sep 28 18:32:04 2025 +0800  W02-P1: App_45 with 6 books
 ![](w02-p2.png)
  
 ```
-b09be5e htchung Wed Sep 24 20:45:12 2025 +0800  W02-P2: refine code in W01-P1
+13ab089 seallco Sun Sep 28 19:59:25 2025 +0800  W02-P2: refine code in W01-P1
 ```
