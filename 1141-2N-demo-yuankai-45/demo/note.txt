@@ -2,3 +2,10 @@ git config --global user.email "213410045@o365.tku.edu.tw"
 git config --global user.name "seallco"
 
 git log --pretty=format:"%h%x09%an%x09%ad%x09%s" --after="2025-04-30"
+
+DATABASE=LOCAL
+SUPABASE_PASSWORD=zbLNDW.CNn/Mh9*
+SUPABASE_HOST=aws-1-us-east-1.pooler.supabase.com
+SUPABASE_PORT=5432
+SUPABASE_DATABASE=postgres
+SUPABASE_USER=postgres.nlpqkrmnygkvcaydgbvp
