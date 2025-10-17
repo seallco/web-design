@@ -2,9 +2,9 @@ import React from 'react'
 
 const HomePage_45 = () => {
     return (
-    <div>
-    <h1>HomePage_45</h1>
-    <h2>周淵凱, 213410045</h2>
+    <div className= 'flex flex-col justify-center items-center'>
+    <h1 className='text-2xl text-purple-700 '>HomePage_45</h1>
+    <h2 className='text-xl'>周淵凱, 213410045</h2>
     </div>   
     )
 }
