@@ -3,7 +3,7 @@ git config --global user.name "seallco"
 
 git log --pretty=format:"%h%x09%an%x09%ad%x09%s" --after="2025-04-30"
 
------------------------
+------------------------- 
 sever
 
 DATABASE=LOCAL
@@ -13,12 +13,10 @@ SUPABASE_PORT=5432
 SUPABASE_DATABASE=postgres
 SUPABASE_USER=postgres.nlpqkrmnygkvcaydgbvp
 
---------------------------
-
-------------------
+---------------------------------
 client
 
 VITE_SUPABASE_URL=https://nlpqkrmnygkvcaydgbvp.supabase.co
 
 VITE_SUPABASE_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im5scHFrcm1ueWdrdmNheWRnYnZwIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjAyMjMxNjYsImV4cCI6MjA3NTc5OTE2Nn0.6m_sYtXNM60vLbhPzI1XQAm_fEkMGxx_mrprWnYqisg
-------------------
+–-------------------------------------
