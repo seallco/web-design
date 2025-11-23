@@ -1,13 +1,9 @@
-import { useState } from 'react';
 import Wrapper from '../../assets/wrappers/Tutorials_45';
-
-const T12_45 = () => {
-  // let count = 0
-  const [count, setCount] = useState(0);
+const T11_xx = () => {
+  let count = 0;
 
   const handleClick = () => {
-    // count++
-    setCount(count + 1);
+    count++;
     console.log('count', count);
   };
 
@@ -21,4 +17,4 @@ const T12_45 = () => {
   );
 };
 
-export default T12_45;
+export default T11_xx;

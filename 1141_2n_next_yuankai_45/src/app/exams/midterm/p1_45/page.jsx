@@ -1,6 +1,6 @@
-import Wrapper from '@/assets/wrappers/midterm/Shop_xx';
+import Wrapper from '@/assets/wrappers/midterm/Shop_45';
  
-const P1_StaticPage_xx = () => {
+const P1_StaticPage_45 = () => {
   return (
     <Wrapper>
       <div className='shop-page'>
@@ -95,4 +95,4 @@ const P1_StaticPage_xx = () => {
   );
 };
  
-export default P1_StaticPage_xx;
+export default P1_StaticPage_45;
