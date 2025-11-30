@@ -128,7 +128,13 @@ const Navbar_45 = () => {
                       <Link href='/node_45'>W4-BlogNode_45</Link>
                     </li>
                     <li className='menu-item'>
-                      <Link href='#'>W5-BlogSupa_45</Link>
+                      <Link href='#'>W6-BlogSupa_45</Link>
+                    </li>
+                    <li className='menu-item'>
+                      <Link href='/localjson2_45'>w7-BlogLoaclJson2_45</Link>
+                    </li>
+                    <li className='menu-item'>
+                      <Link href='/demo/shop_45/node'>W11-ShopNode_45</Link>
                     </li>
                   </ul>
                 </div>
