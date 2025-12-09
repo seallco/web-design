@@ -20,3 +20,33 @@ VITE_SUPABASE_URL=https://nlpqkrmnygkvcaydgbvp.supabase.co
 
 VITE_SUPABASE_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im5scHFrcm1ueWdrdmNheWRnYnZwIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjAyMjMxNjYsImV4cCI6MjA3NTc5OTE2Nn0.6m_sYtXNM60vLbhPzI1XQAm_fEkMGxx_mrprWnYqisg
 –-------------------------------------
+
+W12-P3: Implenment /demo/shop2_xx/supabase to fetch products from Supabase
+ 
+#### => use SQL to get category2_xx data
+ 
+![](w12-p3-1.png)
+ 
+#### => use SQL to get shop2_xx data
+ 
+![](w12-p3-2.png)
+ 
+#### => set foreign key
+ 
+![](w12-p3-3.png)
+ 
+#### => set RLS policies for public access for all CRUD
+ 
+![](w12-p3-4.png)
+ 
+#### => Chrome -- local
+ 
+![](w12-p3-5.png)
+ 
+#### => Chrome -- Vercel
+ 
+![](w12-p3-6.png)
+ 
+```
+8405e7a htchung Wed Dec 3 20:48:28 2025 +0800   W12-P3: Implenment /demo/shop2_xx/supabase to fetch products from Supabase
+```
